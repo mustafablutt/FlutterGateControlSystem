@@ -34,9 +34,7 @@ The system provides the following core features:
 
 ***Intuitive UI:*** The user-friendly interface developed with Flutter ensures a smooth user experience.
     
-## Responsiveness and Error Handling
 
-The application is built with a mobile-first approach, ensuring responsiveness across different screen sizes. Moreover, it integrates robust exception handling to offer a seamless user experience.
 
 
 
